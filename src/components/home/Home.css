@@ -1,0 +1,12 @@
+.headerNum{
+    background-color: #a82d49;
+    min-width: 100%;
+    height: 140px;
+}
+.row{
+    padding: 30px;
+    font-size: larger;
+    font-weight: 900;
+   text-align: center;
+   color: aliceblue;
+}

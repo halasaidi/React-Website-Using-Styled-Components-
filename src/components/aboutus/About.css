@@ -1,0 +1,40 @@
+.aboutimg{
+   
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+   
+}
+.rightside{
+   
+
+    color: rgb(20, 20, 20);
+}
+.style{
+     display: block !important; 
+        margin-top: 10% !important;
+}
+
+
+
+.aboutbutton {
+    margin-right: 30px;
+    padding: 4px;
+    width: 150px;
+    font-weight: 500;
+    background-color: #a82d49;
+    color: aliceblue;
+margin-left: -70%;
+}
+
+.aboutbutton:hover {
+    color: #a82d49;
+    border: 3px solid #a82d49;
+    background: local;
+}
+.rightside p{
+    text-align: left;
+}
+.rightside h2{
+    text-align: left;
+}

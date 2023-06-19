@@ -1,0 +1,29 @@
+#title{
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(62, 4, 2) !important;
+}
+.row1 p {
+    text-align: left;
+}
+.row2 p {
+    text-align: left;
+    color: black;
+}
+.row3 p {
+    text-align: left;
+    color: black;
+}
+.row4 p {
+    text-align: left;
+    color: black;
+}
+#icont{
+    margin-right: 12px;
+    font-weight: 800;
+    color: brown;
+}
+#titleF{
+color: black;
+font-weight: bold;
+}

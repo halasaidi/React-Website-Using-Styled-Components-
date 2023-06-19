@@ -1,0 +1,27 @@
+.footer h5{
+color: rgb(242, 232, 232) !important;
+font-weight: 900;
+font-size: large;
+}
+.footer h5:hover{
+ color: rgb(70, 5, 5) !important;
+    }
+.footer p{
+    color: rgb(245, 239, 239);
+}
+.footer{
+    margin-top: 15%;
+    background-color: #a82d49;
+    min-width: 100%;
+}
+.items{
+    margin-left: 40%;
+ font-size: large !important;
+ font-weight: bold !important;
+}
+#item{
+    margin-left: 29px;
+}
+#item:hover{
+    color: rgb(70, 5, 5) !important;
+}

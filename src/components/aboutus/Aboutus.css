@@ -1,0 +1,32 @@
+.about1{
+ 
+    margin-top: 16% !important;
+}
+.leftside1 p{
+color: black;
+text-align: left;
+}
+.leftside1 h2{
+    color: black !important;
+    text-align: left;
+}
+.aboutbutton1 {
+    margin-right: 30px;
+    padding: 4px;
+    width: 150px;
+    font-weight: 500;
+    background-color: #a82d49;
+    color: aliceblue;
+margin-left: -70%;
+}
+
+.aboutbutton1:hover {
+    color: #a82d49;
+    border: 3px solid #a82d49;
+    background: local;
+}
+#icon2{
+    margin-right: 12px;
+    font-size: 30px;
+    color: #a82d49;
+}

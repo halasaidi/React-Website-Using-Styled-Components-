@@ -1,0 +1,67 @@
+.header {
+    background-image: url("../../images/home.jpeg");
+    background-size: cover;
+
+    text-align: left;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-width: 120%;
+
+}
+
+.title {
+    padding-top: 20%;
+    padding-left: 100px;
+}
+
+.button {
+    padding-left: 100px;
+
+}
+
+#button1 {
+    margin-right: 30px;
+    padding: 4px;
+    width: 150px;
+    font-weight: 500;
+    background-color: #a82d49;
+    color: aliceblue;
+
+}
+
+#button1:hover {
+    color: #a82d49;
+    border: 3px solid #a82d49;
+    background: local;
+}
+
+#button2 {
+
+    padding: 4px;
+    width: 150px;
+    font-weight: 500;
+}
+
+#button2:hover {
+    border: 3px solid #a82d49;
+    ;
+    color: #a82d49;
+}
+
+.icon1 {
+    margin-left: 20px;
+    font-weight: 500 !important;
+    font-size: large;
+}
+
+.icon2 {
+    margin-left: 20px;
+    font-weight: 500 !important;
+    font-size: large;
+}
+
+p{
+    font-weight: 300;
+}
