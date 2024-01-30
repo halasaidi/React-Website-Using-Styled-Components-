@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Website-Using-Styled-Components-/static/css/main.5a96e51b.css",
+    "main.js": "/React-Website-Using-Styled-Components-/static/js/main.ed5647ab.js",
+    "static/js/787.35f14ba0.chunk.js": "/React-Website-Using-Styled-Components-/static/js/787.35f14ba0.chunk.js",
+    "static/media/back2.jpg": "/React-Website-Using-Styled-Components-/static/media/back2.3edfe839b3b61f6c0d24.jpg",
+    "static/media/about1.png": "/React-Website-Using-Styled-Components-/static/media/about1.b810024430d376b6bd6d.png",
+    "static/media/1.png": "/React-Website-Using-Styled-Components-/static/media/1.91adf8dc0779a423e014.png",
+    "static/media/food3.jpg": "/React-Website-Using-Styled-Components-/static/media/food3.0df4d0d0dda2d436bffc.jpg",
+    "static/media/t2.jpg": "/React-Website-Using-Styled-Components-/static/media/t2.960ff282036e3c4e63eb.jpg",
+    "static/media/t1.jpg": "/React-Website-Using-Styled-Components-/static/media/t1.f6e01ff2a6ae714f244b.jpg",
+    "static/media/home.jpeg": "/React-Website-Using-Styled-Components-/static/media/home.0ab5d05df29ea795545c.jpeg",
+    "static/media/food1.jpg": "/React-Website-Using-Styled-Components-/static/media/food1.1defe43a880022701c8d.jpg",
+    "static/media/food2.jpg": "/React-Website-Using-Styled-Components-/static/media/food2.a567a9db1482b99c0fab.jpg",
+    "index.html": "/React-Website-Using-Styled-Components-/index.html",
+    "main.5a96e51b.css.map": "/React-Website-Using-Styled-Components-/static/css/main.5a96e51b.css.map",
+    "main.ed5647ab.js.map": "/React-Website-Using-Styled-Components-/static/js/main.ed5647ab.js.map",
+    "787.35f14ba0.chunk.js.map": "/React-Website-Using-Styled-Components-/static/js/787.35f14ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a96e51b.css",
+    "static/js/main.ed5647ab.js"
+  ]
+}
